@@ -1,0 +1,6 @@
+{
+  "appId": "com.catatan.keuangan",
+  "appName": "catatan-keuangan",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
